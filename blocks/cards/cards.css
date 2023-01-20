@@ -2,6 +2,6 @@
   display: flex;
   flex-wrap: wrap;
   max-width: 920px;
-  margin: auto;
+  margin: 0 auto;
   column-gap: 100px;
 }
